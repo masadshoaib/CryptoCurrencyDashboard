@@ -4,7 +4,7 @@ How do crypto-currencies behave? What factors affect them? I scrape the data fro
 ## Sources of Data
 
 Data | Source | Type
----------------------
+----- | ----- | --------
 1. Tweet | Twint | Web Scraping
 2. Crypto-currency prices | Coingecko | API
 3. S&P 500 Data (Stock Exchange Indicator) | Yahoo Finance | API
