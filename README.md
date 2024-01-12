@@ -2,6 +2,7 @@
 How do crypto-currencies behave? What factors affect them? I scrape the data from some websites, use APIs of others and CSVs to understand the impact by visualizing all on a streamlit dashboard.
 
 ## Sources of Data
+
 Data | Source | Type
 ---------------------
 1. Tweet | Twint | Web Scraping
