@@ -15,9 +15,10 @@ Data | Source | Type
 ### Methodology
 Collect > Clean > Integrate
 
-1) Numerical Scaling. Introduced a lag to analyze how they correlate with prices.
-2) Analyzed the Twitter data and ran a sentiment analysis
-3) Integrated all the data
-4) Constructed a dashboard to analyze the fluctuations and what factors they were correlated with
+1) Numerical Scaling.
+2) Introduced a lag to analyze how they correlate with prices.
+3) Analyzed the Twitter data and ran a sentiment analysis
+4) Integrated all the data
+5) Constructed a dashboard using Panel and HvPlot to analyze the fluctuations and what factors they were correlated with
 
 
