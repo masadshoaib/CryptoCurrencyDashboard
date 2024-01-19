@@ -1,5 +1,5 @@
 # Understanding crypto currency price fluctuations
-How do crypto-currencies behave? What factors affect them? I scrape the data from some websites, use APIs of others and CSVs to understand the impact by visualizing all on a streamlit dashboard.
+How do crypto-currencies behave? What factors affect them? I scrape the data from some websites, use APIs of others and CSVs to understand the impact by visualizing all on a hvplot dashboard.
 
 ### Sources of Data
 
